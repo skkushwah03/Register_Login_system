@@ -1,10 +1,10 @@
 A simple and clean Register & Login System built using JSP, Servlet, JDBC, MySQL, and Tomcat.
 This project demonstrates user registration, login authentication, and secure database connectivity.
 
-🚀 Features
+🚀 Features 
 User Registration
 User Login
-Input Validation
+Input Validation 
 JDBC Database Connectivity
 Session Handling
 Beautiful UI for Landing Page (Login & Register Buttons)
