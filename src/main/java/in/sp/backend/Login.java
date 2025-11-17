@@ -34,7 +34,7 @@ public class Login extends HttpServlet {
             con = DriverManager.getConnection(
                     "jdbc:mysql://127.0.0.1:3306/Logreg",
                     "root",
-                    "saurabh03052@/5"
+                    "saurabh"
             );
 
             ps = con.prepareStatement("SELECT * FROM register WHERE email=? AND pass=?");
