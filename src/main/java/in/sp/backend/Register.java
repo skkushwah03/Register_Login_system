@@ -25,7 +25,7 @@ public class Register extends HttpServlet {
             Connection con = DriverManager.getConnection(
                     "jdbc:mysql://127.0.0.1:3306/Logreg",
                     "root",
-                    "saurabh03052@/5"
+                    "saurabh"
             );
 
             PreparedStatement check = con.prepareStatement(
