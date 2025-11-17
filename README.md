@@ -2,21 +2,26 @@ A simple and clean Register & Login System built using JSP, Servlet, JDBC, MySQL
 This project demonstrates user registration, login authentication, and secure database connectivity.
 
 🚀 Features 
+
 User Registration
 User Login
 Input Validation 
 JDBC Database Connectivity
 Session Handling
 Beautiful UI for Landing Page (Login & Register Buttons)
+
 🛠️ Technologies Used
+
 Java (JSP + Servlet)
 JDBC
 MySQL
 HTML / CSS
 Tomcat Server
 Eclipse / IntelliJ / NetBeans
+
 📂 Project Structure
-RegisterLogin/ ├── src/ │ ├── com.yourpackage.dao/ │ ├── com.yourpackage.servlet/ │ └── com.yourpackage.model/ ├── WebContent/ or webapp/ │ ├── index.jsp │ ├── login.jsp │ ├── register.jsp │ └── WEB-INF/ │ └── web.xml └── README.md
+
+RegisterLogin/ ├── src/ │├── com.yourpackage.dao/ │ ├── com.yourpackage.servlet/ │ └── com.yourpackage.model/ ├── WebContent/ or webapp/ │ ├── index.jsp │ ├── login.jsp │ ├── register.jsp │ └── WEB-INF/ │ └── web.xml └── README.md
 
 CREATE DATABASE LogReg; USE LogReg;
 
